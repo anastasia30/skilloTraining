@@ -1,0 +1,44 @@
+NIX app issue - / run team - ticketing/: Dolores to contact them, s.o. from them will be there
+fileNet
+
+done with UAT in test env - Yes
+1. historical things are migrated !!!
+2. entering new one is sucessfully retrieved
+
+errors:
+1. never fail
+
+5 test: hardcopy - where will the user do the scanning - office scanner (Dol.) -> goes to another app -> fileNet (different way but same effect) -
+potential issue: drive location where we pick it up / establish U drive folder is in our list
+
+6 test: reinstate - an elec questionaire to 3 dif processes in NIX
+
+7 test: list of individuals - in NIX
+
+8 test: same mech
+
+9 test: NIX runteam to unable /NIX - EH team/
+
+NIX application access - Jay/Roger
+
+nov, 22th
+Dolores does it usually /smoke test/ and run team is there if needed - Brenda and Moreen will stand by to see if they can log in 
+and then give it to the rest to test it
+
+basic integrated smoke test - login and retrieval - 19th; 16th is too early; NIX run team to be ready /Liz to inform them/
+
+mail from Liz:
+especially SAP id /2.a.2/: conversion to SAP is not part of the cutover (Liz)
+after the migration:
+SAPID for login to NIX -> URL prompt -> 
+CID for retrieval /login to fileNet/ - these are the steps to be proved on 19th of nov
+
+SAPID consistently in the new NIX, when SSO is at place - not in our scope right now
+
+dec 11th - cutover (Liz) - blocker to that is the run team availability / hypercare plan, latest dec 16th
+
+create service accounts in our AD - Venkat is to establish
+why so many groups - Dolores is not sure of the abbreviations /MOE, etc./
+driver on NIX server 'looks' for new docs every min
+check whether the AD groups are still applicable - Jay
+NIX - fileNet set up  - Jay
